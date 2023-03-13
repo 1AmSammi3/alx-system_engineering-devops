@@ -1,1 +1,1 @@
-ls -l | head 
+ls -t | head 
